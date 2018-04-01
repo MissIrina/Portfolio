@@ -2,7 +2,7 @@
 @import "normalize.css";
 
 /* Global Layout Set-up / Box-sizing*/
-* :after :before{ 
+* :after :before { 
   box-sizing: border-box;
 }
 
